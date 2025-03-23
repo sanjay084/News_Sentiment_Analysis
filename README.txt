@@ -11,6 +11,7 @@ Technologies Used
 Programming Language: Python
 Web Framework: Streamlit
 APIs: NewsAPI for news extraction
+
 Libraries:
 newsapi-python for fetching news
 textblob for sentiment analysis
